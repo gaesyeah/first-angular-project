@@ -1,0 +1,16 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "description": "descrição do hotel 1",
+      "imageUrl": "https://solar-vitoria.bahiatophotels.com/data/Pics/OriginalPhoto/12908/1290887/1290887956/hotel-solar-vitoria-vitoria-da-conquista-pic-2.JPEG",
+      "title": "hotel solar vitoria"
+    },
+    {
+      "id": 2,
+      "description": "descrição do hotel 2",
+      "imageUrl": "https://seabra.bahiatophotels.com/data/Images/OriginalPhoto/5872/587268/587268348/image-vitoria-da-conquista-seabra-hotel-1.JPEG",
+      "title": "hotel seabra"
+    }
+  ]
+}
