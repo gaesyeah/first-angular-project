@@ -6,7 +6,6 @@ export const routes: Routes = [
   {
     path: '',
     component: HomeComponent,
-    title: 'Home',
   },
-  { path: 'hotel/:id', component: HotelComponent, title: 'Hotel' },
+  { path: 'hotel/:id', component: HotelComponent },
 ];

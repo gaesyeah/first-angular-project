@@ -11,7 +11,7 @@ import { HotelInterface } from '../../interfaces/hotel-interface';
   styleUrl: './selected-hotel.component.css',
 })
 export class SelectedHotelComponent {
-  hotel: HotelInterface | undefined;
+  hotelData: HotelInterface | undefined;
   hotelService: HotelService = inject(HotelService);
   route: ActivatedRoute = inject(ActivatedRoute);
 
@@ -19,7 +19,7 @@ export class SelectedHotelComponent {
     const id = Number(this.route.snapshot.params['id']);
 
     this.hotelService.getHotelById(id).then((hotel) => {
-      this.hotel = hotel;
+      this.hotelData = hotel;
     });
   }
 }

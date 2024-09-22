@@ -1,4 +1,9 @@
 <li>
-  <a [routerLink]="['/hotel', hotelData.id]">{{ hotelData.title }}</a>
-  <!-- <img [src]="hotelData.imageUrl" [alt]="hotelData.title" /> -->
+  <div class="imageContainer">
+    <img [src]="hotelData.imageUrl" [alt]="hotelData.title" />
+  </div>
+  <div class="info">
+    <p>{{ hotelData.title }}</p>
+    <a [routerLink]="['/hotel', hotelData.id]">saiba mais</a>
+  </div>
 </li>

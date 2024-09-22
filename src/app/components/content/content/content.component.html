@@ -1,8 +1,9 @@
 <div>
-  <ul class="hotels">
+  <ul>
     <app-hotel-component
       *ngFor="let hotel of hotelList"
       [hotelData]="hotel"
     ></app-hotel-component>
   </ul>
 </div>
+<!-- o [hotelData]="hotel" esta servindo para passar os dados para o component filho a ser renderizado no for, onde ele é recebido no filho com @input -->

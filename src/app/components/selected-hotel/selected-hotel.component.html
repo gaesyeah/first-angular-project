@@ -1,1 +1,9 @@
-<p>{{ hotel?.title }} foi o selecionado</p>
+<div>
+  <div class="imageContainer">
+    <img [src]="hotelData?.imageUrl" [alt]="hotelData?.title" />
+  </div>
+  <div class="info">
+    <h1>{{ hotelData?.title }}</h1>
+    <p>{{ hotelData?.description }}</p>
+  </div>
+</div>

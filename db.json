@@ -2,15 +2,39 @@
   "hotels": [
     {
       "id": 1,
-      "description": "descrição do hotel 1",
+      "description": "descrição do hotel 1 texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha",
       "imageUrl": "https://solar-vitoria.bahiatophotels.com/data/Pics/OriginalPhoto/12908/1290887/1290887956/hotel-solar-vitoria-vitoria-da-conquista-pic-2.JPEG",
       "title": "hotel solar vitoria"
     },
     {
       "id": 2,
-      "description": "descrição do hotel 2",
+      "description": "descrição do hotel 2 texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha",
       "imageUrl": "https://seabra.bahiatophotels.com/data/Images/OriginalPhoto/5872/587268/587268348/image-vitoria-da-conquista-seabra-hotel-1.JPEG",
       "title": "hotel seabra"
+    },
+    {
+      "id": 3,
+      "description": "descrição do hotel 3 texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha",
+      "imageUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106271943.jpg?k=8a058b1cf657530be011c83e5787c4426a4b9522027144a31b0679b5dbad6932&o=&hp=1",
+      "title": "hotel ibis"
+    },
+    {
+      "id": 4,
+      "description": "descrição do hotel 4 texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha",
+      "imageUrl": "https://content.r9cdn.net/rimg/kimg/01/45/c6433d56e4c07abf.jpg?width=500&height=350&xhint=608&yhint=250&crop=true",
+      "title": "hotel central"
+    },
+    {
+      "id": 5,
+      "description": "descrição do hotel 5 texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha",
+      "imageUrl": "https://content.r9cdn.net/himg/87/41/9b/ice-415319-100973255-620733.jpg",
+      "title": "hotel C"
+    },
+    {
+      "id": 6,
+      "description": "descrição do hotel 6 texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha  texto texto texto pra testar a quebra de linha",
+      "imageUrl": "https://element-hotels.marriott.com/wp-content/uploads/2024/05/elmRNOELex.1279277_sq_1536x1536-768x768.jpg",
+      "title": "hotel element"
     }
   ]
 }
