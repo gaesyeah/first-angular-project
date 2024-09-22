@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { HotelInterface } from '../interfaces/hotel-interface';
+import { HotelInterface } from '../../interfaces/hotel-interface';
 
 @Injectable({
   providedIn: 'root',

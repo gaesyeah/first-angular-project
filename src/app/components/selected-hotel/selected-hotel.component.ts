@@ -1,5 +1,5 @@
 import { Component, inject } from '@angular/core';
-import { HotelService } from '../../services/hotel.service';
+import { HotelService } from '../../services/hotel/hotel.service';
 import { ActivatedRoute } from '@angular/router';
 import { HotelInterface } from '../../interfaces/hotel-interface';
 

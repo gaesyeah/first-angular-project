@@ -2,7 +2,7 @@ import { Component, inject } from '@angular/core';
 import { HotelComponent } from '../hotel/hotel.component';
 import { CommonModule } from '@angular/common'; /* necessario para utilizar o ngFor para renderizar componentes dinamicamente */
 import { HotelInterface } from '../../../interfaces/hotel-interface';
-import { HotelService } from '../../../services/hotel.service';
+import { HotelService } from '../../../services/hotel/hotel.service';
 
 @Component({
   selector: 'app-content-component',
